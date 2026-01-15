@@ -1,0 +1,7 @@
+{
+  "name": "DivineVerse AI",
+  "description": "A spiritual knowledge and storytelling platform for Ithihasas and Mahā Purāṇas with AI guidance and visual narratives.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
